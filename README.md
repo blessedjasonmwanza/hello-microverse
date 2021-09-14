@@ -9,7 +9,7 @@
 - HTML
 - CSS
 
-## 👤 Author
+## 👤 Author : Blessed Jason Mwanza
 
 - GitHub: [@blessedjasonmwanza](https://github.com/blessedjasonmwanza)
 - Twitter: [@mwanzabj](https://twitter.com/mwanzabj)
